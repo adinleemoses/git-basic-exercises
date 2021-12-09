@@ -1,0 +1,108 @@
+    1  ls
+    2  ls /data
+    3  pwd
+    4  cd /documents
+    5  cd/Documenys
+    6  cd/Documents
+    7  ls 
+    8  cd /Documents
+    9  cd ~/Documents
+   10  mkdir Learning_unix
+   11  cd ~~/Learning_unix
+   12  cd ~/Learning_unix
+   13  ls
+   14  cd ~/Learning_unix
+   15  cd /Documents
+   16  ls
+   17  CD Documenta
+   18  cd Documents
+   19  mkdir Learning_unix
+   20  cd Learning_unix
+   21  mkdir Outer_directory
+   22  cd Outer_directory
+   23  mkdir Iner_directory
+   24  cd Inner_directory
+   25  cd home
+   26  cd /
+   27  cd home
+   28  ls
+   29  cd Documents
+   30  ls
+   31  ls
+   32  cd Documents
+   33  cd
+   34  pwd
+   35  cd ~
+   36  pwd
+   37  cd /
+   38  pwd
+   39  /ls
+   40  ls
+   41  cd c
+   42  pwd
+   43  cd Users
+   44  cd A-Din
+   45  ls
+   46  cd Documents/Learning_unix/
+   47  ls -l
+   48  ls -R
+   49  ls -l -t -r
+   50  ls -lh
+   51  man ls
+   52  man cd
+   53  cd Outer_directory
+   54  ls
+   55  rmdir Inner_directory
+   56  rmdir Iner_directory
+   57  cd ..
+   58  ls
+   59  rmdir Outer_directory
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd Documents
+   64  cd dir
+   65  dir
+   66  cd gitstuff/
+   67  dir
+   68  cd git-basic-exercises/
+   69  git status
+   70  switch
+   71  git switch main
+   72  git branch
+   73  git status
+   74  nano milkshakes.md
+   75  cat milkshakes.md
+   76  git status
+   77  help
+   78  git branch switch master
+   79  git branch'
+   80  git branch
+   81  q
+   82  cd Documents/gitstuff/git-basic-exercises/
+   83  git status
+   84  git switch master
+   85  git status
+   86  git switch milkshake-flavours 
+   87  git status
+   88  git add
+   89  git add milkshakes.md 
+   90  git status
+   91  git commit -m "added initial flavours"
+   92  git status
+   93  git switch master
+   94  git branch
+   95  git branch -d switch 
+   96  git brnach
+   97  git branch 
+   98  git log
+   99  git checkout milkshake-flavours 
+  100  git log
+  101  git status
+  102  ls -a
+  103  git log
+  104  git checkout master 
+  105  git branch history
+  106  git log
+  107  git branch 
+  108  history > history.txt
